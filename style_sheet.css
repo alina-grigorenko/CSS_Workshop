@@ -1,0 +1,285 @@
+body{
+    background: #020F21;
+}
+
+h1{
+    position: absolute;
+    width: 446px;
+    height: 140px;
+    left: 94px;
+    top: 228px;
+    
+    font-family: Old Standard TT;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 46px;
+    line-height: 57px;
+    
+    color: #A288A6;
+}
+
+p{
+    position: absolute;
+    width: 320px;
+    height: 163px;
+    left: 97px;
+    top: 310px;
+    
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 40px;
+    
+    color: #E5E5E5;
+}
+
+#header{
+    position: absolute;
+    width: 900px;
+    height: 725px;
+    left: 540px;
+    top: 0px;
+    }
+
+a{
+    font-family: Old Standard TT;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 40px;
+    text-decoration: none;
+
+    color: #E5E5E5;
+    
+}
+
+a:hover{
+    color: #A288A6;
+}
+
+#ingredients{    
+    position: absolute;
+    width: 179px;
+    height: 49px;
+    left: 738px;
+    top: 750px;
+}
+
+#recipe{
+    position: absolute;
+    width: 94px;
+    height: 34px;
+    left: 964px;
+    top: 750px;
+}
+
+#nutrition{
+    position: absolute;
+    width: 129px;
+    height: 34px;
+    left: 1144px;
+    top: 750px;
+}
+
+.ingredients{
+    position: absolute;
+    width: 750px;
+    height: 480px;
+    left: 345px;
+    top: 875px;
+
+    background: #A288A6;
+
+    -webkit-box-shadow: 15px 15px 0px 3px rgba(229,229,229,1);
+    -moz-box-shadow: 15px 15px 0px 3px rgba(229,229,229,1);
+    box-shadow: 15px 15px 0px 3px rgba(229,229,229,1);
+}
+
+h2{
+    position: absolute;
+    width: 242px;
+    height: 59px;
+    left: 254px;
+    top: 20px;
+
+    font-family: Old Standard TT;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 59px;
+
+    color: #E5E5E5;
+}
+
+#list1{
+    position: absolute;
+    width: 484px;
+    height: 175px;
+    left: 133px;
+    top: 153px;
+
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 48px;
+
+    color: #E5E5E5;
+}
+
+#betty{
+    position: absolute;
+    width: 345px;
+    height: 248px;
+    left: 0px;
+    top: 1450px;
+}
+
+#milk{
+    position: absolute;
+    width: 375px;
+    height: 248px;
+    left: 345px;
+    top: 1450px;
+}
+
+#oil{
+    position: absolute;
+    width: 377px;
+    height: 248px;
+    left: 718px;
+    top: 1450px;
+}
+
+#eggs{
+    position: absolute;
+    width: 345px;
+    height: 248px;
+    left: 1095px;
+    top: 1450px;
+}
+
+.recipe{
+    position: absolute;
+    width: 570px;
+    height: 543px;
+    left: 114px;
+    top: 1950px;
+    background: #A288A6;
+    z-index: 1;
+}
+
+#list2{
+    position: absolute;
+    width: 500px;
+    height: 444px;
+    left: 20px;
+    top: 100px;
+    
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 44px;
+    
+    color: #E5E5E5;
+}
+
+#add_mix{
+    position: absolute;
+    width: 195px;
+    height: 173px;
+    left: 645px;
+    top: 1823px;
+}
+
+#pour_milk{
+    position: absolute;
+    width: 195px;
+    height: 173px;
+    left: 870px;
+    top: 1823px;
+}
+
+#add_eggs{
+    position: absolute;
+    width: 195px;
+    height: 173px;
+    left: 1095px;
+    top: 1823px;
+}
+
+#add_oil{
+    position: absolute;
+    width: 195px;
+    height: 172px;
+    left: 645px;
+    top: 2026px;
+}
+
+#mix{
+    position: absolute;
+    width: 195px;
+    height: 172px;
+    left: 870px;
+    top: 2026px;
+}
+
+#pour_batter{
+    position: absolute;
+    width: 195px;
+    height: 173px;
+    left: 1095px;
+    top: 2025px;
+}
+
+#baked{
+    position: absolute;
+    width: 645px;
+    height: 449px;
+    left: 645px;
+    top: 2228px;
+}
+
+.nutrition{
+    position: absolute;
+    width: 750px;
+    height: 600px;
+    left: 345px;
+    top: 2770px;
+    -webkit-box-shadow: 15px 15px 0px 3px rgba(229,229,229,1);
+    -moz-box-shadow: 15px 15px 0px 3px rgba(229,229,229,1);
+    box-shadow: 15px 15px 0px 3px rgba(229,229,229,1);
+    background: #A288A6;
+}
+
+.line{
+    position: absolute;
+    width: 1138px;
+    height: 0px;
+    left: 150px;
+    top: 3480.5px;
+
+    border: 2px solid #E5E5E5;
+}
+
+#footer{
+    position: absolute;
+    width: 1030px;
+    height: 46px;
+    left: 165px;
+    top: 25px;
+
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 48px;
+
+    color:#A288A6
+}
+#footer:hover{
+    color:#E5E5E5
+}
+
